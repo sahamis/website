@@ -1,0 +1,47 @@
+[33mcommit 66801448981135925e45373d8656316ecf47a27e[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Masashi Ito <cbohwos.i@gmail.com>
+Date:   Mon Apr 10 16:08:13 2023 +0900
+
+    Add HTML title
+
+[33mcommit 2905bb7915077d342614f12ed8987cae15af70f1[m
+Author: Masashi Ito <cbohwos.i@gmail.com>
+Date:   Mon Apr 10 16:06:59 2023 +0900
+
+    Add some HTML structure
+
+[33mcommit 2db0c18f3ec7b7aa2f1fa6ac7f1fff4e3849589f[m
+Author: Masashi Ito <cbohwos.i@gmail.com>
+Date:   Mon Apr 10 16:00:58 2023 +0900
+
+    Add an h1 tag
+
+[33mcommit 3c2d753b072fe8bd5160745dac5ae86ffea27064[m
+Author: Masashi Ito <cbohwos.i@gmail.com>
+Date:   Mon Apr 10 15:49:57 2023 +0900
+
+    Add baz
+
+[33mcommit 4b8f0c0a94ebd18f1f84964f41ecf172a233bfce[m
+Author: Masashi Ito <cbohwos.i@gmail.com>
+Date:   Mon Apr 10 15:47:22 2023 +0900
+
+    Add content to index.html
+
+[33mcommit 91c3f505b9dc346a8aaa74f675901e604402d925[m
+Author: Masashi Ito <cbohwos.i@gmail.com>
+Date:   Mon Apr 10 15:25:48 2023 +0900
+
+    Add bar
+
+[33mcommit ae499925f900871ed2d66261b1d72577a7a64d22[m
+Author: Masashi Ito <cbohwos.i@gmail.com>
+Date:   Mon Apr 10 15:16:01 2023 +0900
+
+    Make foo
+
+[33mcommit b19f22450c088649d919d879eff726db192b7131[m
+Author: Masashi Ito <cbohwos.i@gmail.com>
+Date:   Mon Apr 10 15:05:32 2023 +0900
+
+    Initialise repisitory
